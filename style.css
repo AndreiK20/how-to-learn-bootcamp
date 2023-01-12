@@ -30,7 +30,7 @@
   margin: 30px 64px; 
 }
 .header__title{
- width:730px; 
+ width:730px;
  line-height: 96px;
  font-weight: 600;
  font-size:102px;
@@ -39,7 +39,7 @@
  align-self: center;
 }
 .header__subtitle{
- position:absolute; 
+ position:absolute;
  left:64px;
  margin-top: 626px;
  width: 388px;
@@ -80,7 +80,6 @@
  justify-content: center;
  margin-bottom: 100px;
  width:100%;
- margin-bottom:100px;
 }
 .two-columns{
  width: 80%;
@@ -93,7 +92,6 @@
  width: 175px;
  text-decoration: none;
  color:  #2f80ed;
- text-decoration: none;
  line-height: 1.2;
  font-size: 18px;
  font-style: normal;

@@ -27,7 +27,7 @@
   height: 32px;
   width: 228px;
   background-image: url(./images/logo_place_header.svg);
-  margin: 30px 64px; 
+  margin: 30px 64px;
 }
 .header__title{
  width:730px;
@@ -96,7 +96,7 @@
  font-size: 18px;
  font-style: normal;
 }
-.two-columns__main-text{ 
+.two-columns__main-text{
  width:80%;
  min-width: 784px;
  margin-bottom: 30px;
@@ -144,10 +144,10 @@
  text-align: center;
 }
 .section-subtitle{ 
- width:60%; 
+ width:60%;
  line-height:34px;
  font-size: 24px;
- font-style:normal; 
+ font-style:normal;
  text-align: center;
 }
 .table{
@@ -220,7 +220,7 @@
 }
 .feynman__imag{
  width:867px;
- height:637px; 
+ height:637px;
  background-image: url(./images/feynman.png);
  background-size:cover;
  align-self: flex-start;

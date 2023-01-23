@@ -3,7 +3,7 @@
     text-decoration: none;
     font-size:18px;
     font-style:normal;
-    z-index: 3;  
+    z-index:3;
     transition: opacity 0.5s;
 }
 .header__link:hover{

@@ -1,0 +1,9 @@
+.two-columns__theme_grey{
+    margin-top: 160px;
+    margin-bottom: 100px;
+    width: 80%;
+    align-self: center;
+    word-wrap: break-word;
+    display: flex;
+    justify-content: space-between;
+}

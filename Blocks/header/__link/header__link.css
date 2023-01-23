@@ -1,0 +1,15 @@
+.header__link{
+    color: #2f80ed;
+    text-decoration: none;
+    font-size:18px;
+    font-style:normal;
+    z-index: 3;  
+    transition: opacity 0.5s;
+}
+.header__link:hover{
+    opacity: 0.5;
+}
+.header__link::after{
+     content: '\2192';
+     z-index: 3;
+}

@@ -1,0 +1,9 @@
+.cards__item{
+    display: block;
+    flex-direction: column;
+    margin-right: 100px;
+    overflow: hidden;
+}
+.cards__item:nth-of-type(3){
+ margin-right: 0;
+}

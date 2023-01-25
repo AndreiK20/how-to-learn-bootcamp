@@ -1,7 +1,7 @@
-.two-columns{
-    width: 80%;
-    align-self: center;
-    word-wrap: break-word;
-    display: flex;
-    justify-content: space-between;
+.two-columns {
+  width: 80%;
+  align-self: center;
+  word-wrap: break-word;
+  display: flex;
+  justify-content: space-between;
 }

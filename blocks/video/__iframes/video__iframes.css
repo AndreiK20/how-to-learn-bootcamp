@@ -1,3 +1,4 @@
-.video__iframes{
-    display: flex;
+.video__iframes {
+  display: flex;
+  text-decoration: none;
 }

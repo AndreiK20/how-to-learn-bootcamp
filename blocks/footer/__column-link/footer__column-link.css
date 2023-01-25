@@ -1,12 +1,12 @@
-.footer__column-link{
-    width: 100%;
-    align-items: center;
-    text-decoration: none;
-    color: white;
-    box-sizing: border-box;
-    column-gap: 10px;
-    transition: opacity 0.5s;
+.footer__column-link {
+  width: 100%;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  box-sizing: border-box;
+  column-gap: 10px;
+  transition: opacity 0.5s;
 }
-.footer__column-link:hover{
-    opacity: 0.5;
+.footer__column-link:hover {
+  opacity: 0.5;
 }

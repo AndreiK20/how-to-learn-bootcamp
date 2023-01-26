@@ -4,4 +4,6 @@
   align-self: center;
   margin-top: 80px;
   margin-bottom: 217px;
+  padding: 0;
+  list-style-type: none;
 }
